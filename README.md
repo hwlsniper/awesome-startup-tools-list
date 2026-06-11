@@ -135,6 +135,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - CryptoMator - https://cryptomator.org/
 - WinScp - https://winscp.net
 - Putty - https://www.putty.org/
+- [PDF Toolbox](https://pdftoolbox-three.vercel.app) - Free browser-based PDF tools. Compress, merge, split, convert — all processing done locally, no file uploads.
 
 ### Testing and Code Insights
 - Sauce Labs - https://saucelabs.com/
